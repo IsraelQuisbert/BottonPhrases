@@ -1,7 +1,7 @@
 import React from "react";
 import quotes from "../quotes.json"
 import { useState } from "react";
-import Button from "./button";
+
 
 const colors = ["red", "blue", "aqua", "lemon", "yellowgreen", "blueviolet", "green"]
 
